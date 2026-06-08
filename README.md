@@ -9,10 +9,7 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+My system will cover UC Santa Cruz housing information.
 
 ---
 
@@ -24,7 +21,7 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
+| 1 | UCSC Housing| url |https://housing.ucsc.edu/communities/|
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
