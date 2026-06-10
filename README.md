@@ -21,16 +21,16 @@ My system will cover UC Santa Cruz housing information.
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | UCSC Housing| url |https://housing.ucsc.edu/communities/|
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Freshmen UCSC Housing Information | https://housing.ucsc.edu/start-here/freshmen/|
+| 2 | Transfer Students Housing Information | url|https://housing.ucsc.edu/communities/transfer/|
+| 3 | UCSC Reddit Thread| url |https://www.reddit.com/r/UCSC/comments/xp6hi1/which_dorms_are_the_best/ |
+| 4 | UCSC Continuing Students|url|https://housing.ucsc.edu/start-here/continuing/ |
+| 5 | UCSC Housing Calendar|url|https://housing.ucsc.edu/dates-deadlines/calendar/ |
+| 6 | UCSC Policies/Contracts|url |https://housing.ucsc.edu/policies-contracts/ |
+| 7 | UCSC Housing Rates|url |https://housing.ucsc.edu/rates-payments/rates/|
+| 8 | UCSC College Communities| url |https://housing.ucsc.edu/communities/colleges/|
+| 9 | UCSC Housing Reddit Thread| url |https://www.reddit.com/r/UCSC/comments/1s4p0fm/how_are_the_dorms_at_ucsc/|
+| 10 | UCSC Housing Guarentee |url |https://housing.ucsc.edu/policies-contracts/housing-guarantee/ |
 
 ---
 
